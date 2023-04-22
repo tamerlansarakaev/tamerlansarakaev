@@ -1,6 +1,6 @@
 # Tamerlan Sarakaev's Resume
 
-## Introduction
+## About me
 Hello! 
 I am a frontend developer with over 1.7 years of experience in the field. 
 I am currently based in Turkey but I am open to considering telecommuting opportunities.
@@ -37,7 +37,7 @@ _______________________
 
 # Резюме Tamerlan Sarakaev (RU)
 
-## Описание
+## Обо мне
 Доброго времени суток! 
 Я - frontend разработчик с опытом работы в этой сфере более полутора лет. 
 Работаю в Турции, но готов рассмотреть предложения о работе удаленно. 
