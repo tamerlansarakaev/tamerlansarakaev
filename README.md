@@ -31,7 +31,7 @@ Feel free to reach out to me with any questions you may have.
 
 Best regards,
 Tamerlan.
-________________________________
+_______________________
 
 # Резюме Tamerlan Sarakaev (RU)
 
