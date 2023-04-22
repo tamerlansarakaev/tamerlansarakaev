@@ -4,7 +4,7 @@
 Hello! 
 I am a frontend developer with over 1.5 years of experience in the field. 
 I am currently based in Turkey but I am open to considering telecommuting opportunities.
-&nbsp
+#
 My skills include working with the React + TypeScript stack, as well as experience with Redux, Redux-toolkit, Firebase, and CSS modules.
 
 Currently, I am actively working on a pet project using React, TypeScript, Redux toolkit, Firebase, and CSS modules. Additionally, I have other projects on my GitHub.
