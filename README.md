@@ -27,7 +27,7 @@ Currently, I am actively working on a pet project using React, TypeScript, Redux
 
 ## Contact
 - Telegram: https://t.me/tamerlansarakaev
-- Linkedin: https://www.linkedin.com/in/tamerlan-sarakaev-0335a124b
+- Linkedin: https://www.linkedin.com/in/tamerlansarakaev
 
 Feel free to reach out to me with any questions you may have.
 
@@ -64,7 +64,7 @@ _______________________
 
 ## Контакты
 - Telegram: https://t.me/tamerlansarakaev
-- Linkedin: https://www.linkedin.com/in/tamerlan-sarakaev-0335a124b
+- Linkedin: https://www.linkedin.com/in/tamerlansarakaev
 
 Рад ответить на все интересующие вас вопросы.
 #
