@@ -1,18 +1,17 @@
-Мои навыки включают в себя работу со стеком React + TypeScript, а также опыт работы с Redux, Redux-toolkit, Firebase и CSS модулями. 
-
 ## Навыки
-- Html
-- Css
-- Js
-- React
+- JavaScript
 - TypeScript
+- Nest
+- Express
+- Node
+- Linux
+- React
 - Redux
 - Redux-toolkit
 - REST API
 - GIT
 - Axios
-- Docker (на уровне пользователя)
-- Firebase
+- Docker
 - Препроцессоры: Less, Scss, Sass
 
 ## Контакты
